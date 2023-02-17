@@ -1,0 +1,8 @@
+{
+  "goerli": {
+    "Lock": {
+      "address": "0x5D58da13b18335e704ba111c4f55EC721e1a8324",
+      "startBlock": 8497055
+    }
+  }
+}
